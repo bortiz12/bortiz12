@@ -1,3 +1,4 @@
+- 👋 Hi, I'm Bryan David Ortiz.
 
 <!---
 bortiz12/bortiz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
